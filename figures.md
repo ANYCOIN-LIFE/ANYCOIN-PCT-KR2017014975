@@ -5,7 +5,7 @@
 
 >FIG 2.
 >
-![](images/fig2.png)
+>![](images/fig2.png)
 
 >FIG 3.
 >
