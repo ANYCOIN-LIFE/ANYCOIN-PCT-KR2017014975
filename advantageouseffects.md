@@ -1,0 +1,2 @@
+#### Advantageous Effects
+[0021] In the funding system and method using virtual money according to an embodiment of the present disclosure, since funding is performed on initial public offering (IPO) of a company using virtual money and an initial coin offering (ICO) token provided in return for the funding is allowed to be used for real transaction, liquidity of virtual money and real transactions may be secured.

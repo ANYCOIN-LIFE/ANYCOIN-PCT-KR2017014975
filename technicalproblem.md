@@ -1,0 +1,2 @@
+#### Technical Problem
+[006] The present disclosure solves the above-mentioned problems and an object of the present disclosure is to provide a funding system and method using a virtual money, to fund in initial public offering (IPO) using virtual money and allow purchase of goods (or product) or services of a company (or a corporation) of initial coil offering (ICO) using an ICO token provided in return for the funding. 
